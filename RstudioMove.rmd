@@ -2,3 +2,5 @@
 1. [Rstudio](https://www.rstudio.com/products/RStudio/)
 2. [Markdown Website Editor](http://dillinger.io/)
 3. [github](https://github.com/)
+4. [R 語言翻轉教室](http://datascienceandr.org/)
+5. [R 語言導論](https://www.datacamp.com/community/open-courses/r-%E8%AA%9E%E8%A8%80%E5%B0%8E%E8%AB%96#gs.qWpsgns)
